@@ -12,10 +12,8 @@ Papers and books about Temporal Database
 6. The Historical Relational Data Model(HRDM) and Algebra Based on Lifespans
 7. Christian S.Jensen. Introduction to Temporal Database Research Outline
 8. Unification of Temporal Relations
-
-zhanhao zhao
-1.ACCESS METHODS FOR MULTIVERSION DATA
-2.Transaction Time Support Inside a Database Engine
+9. ACCESS METHODS FOR MULTIVERSION DATA (Zhanhao Zhao, Week.1)
+10. Transaction Time Support Inside a Database Engine (Zhanhao Zhao, Week.1)
 
 ---
 ### Books
