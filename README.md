@@ -13,6 +13,10 @@ Papers and books about Temporal Database
 7. Christian S.Jensen. Introduction to Temporal Database Research Outline
 8. Unification of Temporal Relations
 
+zhanhao zhao
+1.ACCESS METHODS FOR MULTIVERSION DATA
+2.Transaction Time Support Inside a Database Engine
+
 ---
 ### Books
 1. 时态数据库导论 汤庸
