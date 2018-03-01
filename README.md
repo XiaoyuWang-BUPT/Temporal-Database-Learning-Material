@@ -17,7 +17,6 @@ Papers and books about Temporal Database
 ### Books
 1. 时态数据库导论 汤庸
 2. 时态数据库设计理论 郝忠孝
-...
 
 ---
 ### Others
