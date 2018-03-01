@@ -1,6 +1,8 @@
 # Temporal-Database-Learning-Material
 Papers and books about Temporal Database
 
+---
+
 ### Papers
 1. Extensions to SQL for Historical Databases
 2. The Temporal Query Language TQuel
