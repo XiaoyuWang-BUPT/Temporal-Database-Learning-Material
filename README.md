@@ -10,7 +10,6 @@ Papers and books about Temporal Database
 6. The Historical Relational Data Model(HRDM) and Algebra Based on Lifespans
 7. Christian S.Jensen. Introduction to Temporal Database Research Outline
 8. Unification of Temporal Relations
-...
 
 ---
 ### Books
