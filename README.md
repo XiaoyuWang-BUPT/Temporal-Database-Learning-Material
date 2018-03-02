@@ -33,3 +33,7 @@ Papers and books about Temporal Database
 1. www.timeconsult.com
 2. https://www.csie.ntu.edu.tw/~hh_lee/temporal/model.html
 3. https://plato.stanford.edu/entries/logic-temporal/
+
+---
+### Summary
+1. 时态数据库基本概念
