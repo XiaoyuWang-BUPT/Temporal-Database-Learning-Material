@@ -18,6 +18,10 @@ Papers and books about Temporal Database
 8. Unification of Temporal Relations
 9. ACCESS METHODS FOR MULTIVERSION DATA (Zhanhao Zhao, Week.1)
 10. Transaction Time Support Inside a Database Engine (Zhanhao Zhao, Week.1)
+11. C-Store: A Column-oriented DBMS (Zhanhao Zhao, Week.2)
+12. The Design of the Postgres Storage System
+13. The Implementation of Postgres
+14. Temporal and Real-Time Databases: A Survey
 
 ---
 ### Books
