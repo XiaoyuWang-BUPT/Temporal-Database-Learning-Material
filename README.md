@@ -2,7 +2,11 @@
 Papers and books about Temporal Database
 
 ---
+### SQL 2011 standard
+1. Temporal features in SQL 2011
+2. temporal extensions to sql 2011
 
+---
 ### Papers
 1. Extensions to SQL for Historical Databases
 2. The Temporal Query Language TQuel
