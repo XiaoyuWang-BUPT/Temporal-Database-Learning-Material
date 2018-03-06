@@ -3,7 +3,7 @@ Papers and books about Temporal Database
 
 ---
 ### SQL 2011 standard
-1. Temporal features in SQL 2011
+1. Temporal features in SQL 2011 (Xiaoyuwang, 2018.3.6)
 2. temporal extensions to sql 2011
 
 ---
@@ -25,7 +25,7 @@ Papers and books about Temporal Database
 
 ---
 ### Books
-1. 时态数据库导论 汤庸
+1. 时态数据库导论 汤庸 (Partially, Xiaoyuwang, 2018.3.6)
 2. 时态数据库设计理论 郝忠孝
 
 ---
@@ -36,4 +36,5 @@ Papers and books about Temporal Database
 
 ---
 ### Summary
-1. 时态数据库基本概念
+1. 时态数据库基本概念 (2018.3.1)
+2. SQL:2011 时态数据库相关 (2018.3.6)
