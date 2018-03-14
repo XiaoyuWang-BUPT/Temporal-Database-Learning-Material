@@ -40,6 +40,6 @@ Papers and books about Temporal Database
 ---
 ### Diagests
 1. 时态数据库基本概念 (2018.3.1 Xiaoyuwang)
-2. SQL:2011 时态数据库相关 (2018.3.6 Xiaoyuwang)
+2. SQL:2011 时态数据库相关 (2018.3.6 Xiaoyuwang) (2018.3.14 Updated)
 3. DB2 Temporal摘要(2018.3.8 Xiaoyuwang) *Official introduction included. Not completely detailed.*
 4. SQL Server 2016 Temporal摘要 (2018.3.8 Xiaoyuwang) *Official introduction and vedio included. Not completely detailed.*
