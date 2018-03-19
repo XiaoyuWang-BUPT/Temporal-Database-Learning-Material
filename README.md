@@ -23,8 +23,9 @@ Papers and books about Temporal Database
 13. The Implementation of Postgres
 14. Temporal and Real-Time Databases: A Survey
 15. TIP A Temporal Extension to Informix
-16. Application of Spatio-temporal Model to Estimate Burden of Diseases Injuries and Risk Factors in Iran 1990-2013
+16. Application of Spatio-temporal Model to Estimate Burden of Diseases Injuries and Risk Factors in Iran 1990-2013 (Xiaoyuwang, 2018.3.18 Irrelevant to temporal database)
 17. Spatio-Temporal Database Support for Legacy Applications
+18. An overview of Temporal Features in SQL:2011 (Xiaoyuwang, 2018.3.14)
 
 ---
 ### Books
